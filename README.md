@@ -33,37 +33,6 @@ Currently focused on:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ripafterr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripafterr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ripafterr&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build impactful projects
-- 🌍 Contribute to Open Source
-- 🧠 Master Full Stack Development
-- 🔐 Improve Cybersecurity skills
-- 📱 Create useful applications
-- 💼 Grow as a Software Engineer
-
----
-
 ## 📂 Featured Projects
 
 🚧 Coming Soon...
